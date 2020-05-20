@@ -1,6 +1,6 @@
 # New York Times Spelling Bee Solver
 This is program that solves the New York Times Spelling Bee. 
-
+![demo](/beeLogo.png)
 ## Running the program
 - Clone this Repo . 
 - In the ```main``` function input the letters that can be used into the ```charSet``` variable. Input the main letter into the  ```mainChar``` variable. 
